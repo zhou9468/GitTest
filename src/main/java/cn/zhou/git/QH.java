@@ -8,6 +8,8 @@ public class QH {
 		
 		System.out.println("我很想见你呢，你呢，想不想见我?");
 		
+		System.out.println("那好啊，就不告诉他了，哈哈哈");
+		
 	}
 
 }
