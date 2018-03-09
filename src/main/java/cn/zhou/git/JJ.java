@@ -1,6 +1,6 @@
 package cn.zhou.git;
 
-public class QH {
+public class JJ {
 	public static void main(String[] args) {
 		
 		
