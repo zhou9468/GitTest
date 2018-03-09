@@ -6,7 +6,7 @@ public class QH {
 		
 		System.out.println("清和，初次见面，你好");
 		
-		
+		System.out.println("你好，娇娇");
 		
 	}
 
