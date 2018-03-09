@@ -6,7 +6,7 @@ public class JJ {
 		
 		System.out.println("你好，初次见面");
 		
-		
+		System.out.println();
 		
 	}
 
